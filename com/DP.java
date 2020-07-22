@@ -1,4 +1,4 @@
-package com.epam.designPatterns;
+package com;
 
 public class DP 
 {
